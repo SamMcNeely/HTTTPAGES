@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hyper Tic Tac Toe",
+"productVersion": "0.2",
+"dataUrl": "Version_Alpha_8_10_2019_1616_WEBGL.data.unityweb",
+"wasmCodeUrl": "Version_Alpha_8_10_2019_1616_WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Version_Alpha_8_10_2019_1616_WEBGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a7"
+}
